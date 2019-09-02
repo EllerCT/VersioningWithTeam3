@@ -1,1 +1,5 @@
 C.Eller: My summer was spent with as much downtime as possible, occasionally poking at coding for a portfolio, and often gaming. Very little of interest was accomplished save for a bit of assistance with landscaping a stone path for my parents. Beyond that, just stuff like Final Fantasy XIV, and various steam games.
+
+JP Perales:
+What I did was work 2 jobs and improve my development process. I've been reading Kent Beck's "Extreme Programming 2nd edition" and have been practicing test driven development and jit decision making.
+My hope is that I can use those to make my workplace more rigorous in its methodology since our boss is too relaxed on many aspacts of the development process.
