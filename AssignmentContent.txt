@@ -1,2 +1,5 @@
 C.Eller: My summer was spent with as much downtime as possible, occasionally poking at coding for a portfolio, and often gaming. Very little of interest was accomplished save for a bit of assistance with landscaping a stone path for my parents. Beyond that, just stuff like Final Fantasy XIV, and various steam games.
 
+<<<<<<< HEAD
+=======
+>>>>>>> pr/2
